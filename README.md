@@ -12,9 +12,9 @@ Each program is self-contained and focuses on a specific topic such as classes, 
 ### Exercise Lists
 Grouped exercises covering progressive small topics in object-oriented programming:
 
-- **List1-Exercises**: Introductory problems on classes and encapsulation.  
+- **List1-Exercises**: Introductory problems, class creation, methods and attributes.  
 - **List2-Exercises**: Inheritance and polymorphism basics.  
-- **List3-Exercises**: Advanced exercises including operator overloading and templates.  
+- **List3-Exercises**: Advanced exercises using everything else, with overriding, inheritance and polymorphism.  
 
 ### Standalone Programs
 Independent projects demonstrating key concepts:  
@@ -50,6 +50,6 @@ Independent projects demonstrating key concepts:
 Each program is self-contained and can be compiled using a standard C++ compiler such as **g++**:
 
 ```bash
-cd Program-ShapeStack
-g++ main.cpp -o shape_stack
-./shape_stack
+cd Program-ProgramFolder
+g++ main.cpp ... -o program
+./program
